@@ -14,4 +14,11 @@
 * [microFS](https://microfs.readthedocs.io/en/latest/)
 * [MicroPython Docs](http://microbit-micropython.readthedocs.io/en/latest/)
 
-## mbed C/C++
+## mbed C/C++ Radio
+* [Using MicroBit Radio](https://lancaster-university.github.io/microbit-docs/ubit/radio/#using-microbitradio)
+* [Radio Datagram](https://lancaster-university.github.io/microbit-docs/ubit/radiodatagram/)
+* [Radio Event](https://lancaster-university.github.io/microbit-docs/ubit/radioevent/)
+
+### Terms
+* [rssi 1](https://www.metageek.com/training/resources/understanding-rssi.html)
+* [rssi 2](https://en.wikipedia.org/wiki/Received_signal_strength_indication)
