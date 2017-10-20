@@ -1,8 +1,0 @@
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/ym/ble/source/CMakeFiles/ble.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/ym/microbit/source/CMakeFiles/microbit.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/ym/nrf51-sdk/source/CMakeFiles/nrf51-sdk.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/yotta_dummy_lib_yotta_test/CMakeFiles/yotta-test.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/CMakeFiles/all_tests.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/ym/ble-nrf51822/source/CMakeFiles/ble-nrf51822.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/ym/mbed-classic/existing/CMakeFiles/mbed-classic.dir
-/Users/scrypy/code/projects/micro-bitz/yotta-test/build/bbc-microbit-classic-gcc/ym/microbit-dal/source/CMakeFiles/microbit-dal.dir
